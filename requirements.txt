@@ -1,0 +1,8 @@
+csvkit
+pandas
+numpy
+nltk
+torch
+transformers
+sckit-learn
+shap
